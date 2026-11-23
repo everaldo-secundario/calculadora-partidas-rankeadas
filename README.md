@@ -48,4 +48,4 @@ e desenvolvimento como profissional de tecnologia.
 
 Desenvolvido por **Everaldo Alexandre**.
 
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/everaldo-alexandre-9a36a8192/)) 
