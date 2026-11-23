@@ -1,51 +1,57 @@
 
-# 📚 DIO - Estudos e Desafios
+# ⚔️ Calculadora de Partidas Rankeadas
 
-Repositório dedicado ao registro da minha evolução
-em programação durante os estudos na Digital
-Innovation One (DIO).
+Desafio prático desenvolvido durante os estudos
+na Digital Innovation One (DIO).
 
-Aqui organizo desafios práticos, exercícios,
-projetos e aprendizados desenvolvidos ao longo
-da minha jornada na tecnologia.
+## 📌 Objetivo
 
-## 🚀 Tecnologias e linguagens
+Criar uma função que recebe a quantidade de vitórias
+e derrotas de um jogador, calcula seu saldo de
+vitórias e determina seu nível.
 
-- JavaScript
-- Python
-- HTML e CSS
-- TypeScript
-- Node.js
+## 🧠 Conceitos praticados
 
-## 📂 Organização
+- Variáveis
+- Operadores aritméticos
+- Estruturas condicionais
+- Funções
+- Laços de repetição
 
-| Diretório | Descrição |
+## 🏅 Classificação
+
+| Vitórias | Nível |
 |---|---|
-| javascript/ | Estudos e desafios em JavaScript |
-| python/ | Estudos e desafios em Python |
+| Até 10 | Ferro |
+| 11 a 20 | Bronze |
+| 21 a 50 | Prata |
+| 51 a 80 | Ouro |
+| 81 a 90 | Diamante |
+| 91 a 100 | Lendário |
+| 101 ou mais | Imortal |
 
-## 🏆 Desafios realizados
+## 💻 Execução
 
-### JavaScript
+Execute com Node.js:
 
-- [x] Calculadora de Partidas Rankeadas
+```bash
+node index.js
+```
 
-## 🎯 Objetivos
+## 📊 Exemplo
 
-- Desenvolver raciocínio lógico.
-- Aprimorar conhecimentos em programação.
-- Praticar resolução de problemas.
-- Construir projetos práticos.
-- Registrar minha evolução profissional na área de TI.
+Entrada:
+- Vitórias: 85
+- Derrotas: 20
 
-## 📈 Minha jornada
+Resultado:
 
-Este repositório está em constante evolução.
-Cada desafio representa uma etapa do meu aprendizado
-e desenvolvimento como profissional de tecnologia.
+```text
+O Herói tem saldo de 65 está no nível de Diamante
+```
 
----
+## 📚 Aprendizado
 
-Desenvolvido por **Everaldo Alexandre**.
-
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/everaldo-alexandre-9a36a8192/)) 
+O desafio permitiu praticar funções, cálculos
+aritméticos e estruturas condicionais para resolver
+um problema utilizando JavaScript.
